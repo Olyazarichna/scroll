@@ -22,12 +22,12 @@ img {
   width: 100%;
 }
 
-/* ul {
+ul {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 15px;
-} */
-ul {
+}
+/* ul {
   display: flex;
   flex-wrap: wrap;
-}
+} */
